@@ -88,6 +88,7 @@ To play with friends, pause the game and open a LAN world. Then look in chat for
 | Optimized Config    | Yes                   | No, default config for everything            |
 | Shaders            | Yes, 6, all latest versions | Yes, only an outdated verison of Bliss            |
 | Worldgen | Yes, only Tectonic, feels vanilla | Yes, several worldgen mods, does not feel vanilla |
+| Updates? | Yes, updates for new shaders, mods, and mod updates | Yes, does not update often and only updates mods
 
 
 
