@@ -2,6 +2,8 @@
 
 Issue page for Distantly Optimized.
 Downloads too!
+### **1.20.6 support has been released in beta!**
+**To play on 1.20.6, please update your Modrinth Launcher to version 0.7.1 or later.**
 
 <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/imheavi/Distantly-Optimized?style=for-the-badge">
 
@@ -19,7 +21,7 @@ It is designed to be lightweight, work on any server, and update faster than any
 
 
 # What about framerate?
-With the settings and specs listed below, I had a stable 60 FPS.
+With the settings and specs listed below, I had a stable 70 FPS.
 
 You actually dont need a powerful PC to run this, plus you can turn down Distant Horizons quality and render distance settings, as well as shaders.
 
@@ -31,17 +33,17 @@ You actually dont need a powerful PC to run this, plus you can turn down Distant
   
 Quality: High
 
-CPU Load: Aggressive
+CPU Load: Balanced + thread tweaks
 
-LoD Render Distance: 500
+LoD Render Distance: 300
 
 **Minecraft settings:**
 
 Resoulution: 1920x1080
 
-Shadow Distance: 8
+Shadow Distance: 12
 
-Render Distance: 8
+Render Distance: 12
 
 Simulation Distance: 5
 
@@ -65,10 +67,10 @@ Windows 11
 
 
 
-# The Guidebook will help you learn how to use the extra features this modpack has to offer.
+
 
 <details>
-<summary>Guidebook</summary>
+<summary>Extra Features</summary>
 
 **Tectonic**, the worldgen mod included in this modpack, adds amazing world generation to Minecraft, using only vanilla blocks. No extra setup required.
 
@@ -89,7 +91,7 @@ To play with friends, pause the game and open a LAN world. Then look in chat for
 | Optimized Config    | Yes                   | No, default config for everything            |
 | Shaders            | Yes, 6, all latest versions | Yes, only an outdated verison of Bliss            |
 | Worldgen | Yes, only Tectonic, feels vanilla | Yes, several worldgen mods, does not feel vanilla |
-| Updates? | Yes, updates for new shaders, mods, and mod updates | Yes, does not update often and only updates mods
+| Updates | Yes, updates for new shaders, mods, and mod updates | Yes, does not update often and only updates mods
 
 
 
