@@ -2,8 +2,6 @@
 
 Issue page for Distantly Optimized.
 Downloads too!
-### **1.20.6 support has been released in beta!**
-**To play on 1.20.6, please update your Modrinth Launcher to version 0.7.1 or later.**
 
 <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/imheavi/Distantly-Optimized?style=for-the-badge">
 
