@@ -1,14 +1,11 @@
-![Banner](https://api.mcbanners.com/banner/saved/uwfhUCEbEovqdu.png)
-
 Issue page for Distantly Optimized.
-Downloads too!
 
 <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/imheavi/Distantly-Optimized?style=for-the-badge">
 
 <img alt="Modrinth Version" src="https://img.shields.io/modrinth/v/SkMS8yyx?style=for-the-badge&label=latest%20version">
 
 
-Distantly Optimized is a modpack featuring Distant Horizions 2.0 and a beta version of Iris, letting you see _really, really_ far, as well as a few shaderpacks that support Distant Horizons, incredible worldgen powered by Tectonic, and some utility mods.
+Distantly Optimized is a modpack featuring the latest version of Distant Horizons and Iris, letting you see _really, really_ far, as well as a few shaderpacks that support Distant Horizons, incredible worldgen powered by Tectonic, and some utility mods.
 
 
 It is designed to be lightweight, work on any server, and update faster than anyone else.
@@ -80,17 +77,6 @@ To play with friends, pause the game and open a LAN world. Then look in chat for
 
 
 </details>
-
-# Comparisons
-
-| Features            | Distantly Optimized   | New Horizons         |
-|---------------------|:---------------------:|---------------------:|
-| Utilities           | Yes                   | No                   |
-| Optimized Config    | Yes                   | No, default config for everything            |
-| Shaders            | Yes, 6, all latest versions | Yes, only an outdated verison of Bliss            |
-| Worldgen | Yes, only Tectonic, feels vanilla | Yes, several worldgen mods, does not feel vanilla |
-| Updates | Yes, updates for new shaders, mods, and mod updates | Yes, does not update often and only updates mods
-
 
 
 Thanks to X0nk for adding Distant Horizions support to Bliss, one of my favorite shader packs! You can find the version included here, which supports Distant Horizons on his Github page: [https://github.com/X0nk/Bliss-Shader](https://github.com/X0nk/Bliss-Shader)
